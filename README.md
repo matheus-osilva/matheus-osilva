@@ -8,7 +8,7 @@
   <header>
     <h1>Matheus Oliveira da Silva</h1>
   <section id="Sobre">
-    <h2>Sobre mim</h2>
+    <h2>Sobre</h2>
     <p>Estudante de Matemática Aplicada e Computacional no Instituto de Matemática e Estatística da USP. Atualmente estou aprendendo C++, mas já criei alguns projetos em C e Python. Tenho grande interesse em Machine Learning, Linux, e automação.</p>
     <img src="https://github-readme-stats.vercel.app/api?username=matheus-osilva&show_icons=true&theme=blue-green" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-osilva&layout=compact&theme=blue-green&hide=html" width="360">
