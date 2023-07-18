@@ -7,14 +7,6 @@
 <body>
   <header>
     <h1>Matheus Oliveira da Silva</h1>
-    <nav>
-      <ul>
-        <li><a href="#Sobre">Sobre</a></li>
-        <li><a href="#Contato">Contato</a></li>
-      </ul>
-    </nav>
-  </header>
-
   <section id="Sobre">
     <h2>Sobre mim</h2>
     <p>Estudante de Matemática Aplicada e Computacional no Instituto de Matemática e Estatística da USP. Atualmente estou aprendendo C++, mas já criei alguns projetos em C e Python. Tenho grande interesse em Machine Learning, Linux, e automação.</p>
