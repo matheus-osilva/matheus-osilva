@@ -1,16 +1,39 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Matheus Oliveira da Silva</h1>
+    <nav>
+      <ul>
+        <li><a href="#Sobre">Sobre</a></li>
+        <li><a href="#Contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<!--
-**matheus-osilva/matheus-osilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <section id="Sobre">
+    <h2>Sobre mim</h2>
+    <p>Estudante de Matemática Aplicada e Computacional no Instituto de Matemática e Estatística da USP. Atualmente estou aprendendo C++, mas já criei alguns projetos em C e Python. Tenho grande interesse em Machine Learning, Linux, e automação.</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=matheus-osilva&show_icons=true&theme=blue-green" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-osilva&layout=compact&theme=blue-green&hide=html" width="360">
+  </section>
 
-Here are some ideas to get you started:
+  <section id="Contato">
+    <h2>Contato</h2>
+    <p>Email: matheusnz@hotmail.com</p>
+    <p>Telefone: +55 (11) 95310-9860</p>
+    <p>LinkedIn: https://www.linkedin.com/in/matheus-oliveira-da-silva-b60085236/</p>
+  </section>
+  </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <footer>
+    <p>&copy; 2023 Matheus Oliveira da Silva</p>
+  </footer>
+
+</body>
+</html>
