@@ -16,7 +16,7 @@
 
   <section id="Contato">
     <h2>Contato</h2>
-    <p>Email: matheusnz@hotmail.com</p>
+    <p>Email: matheusoliveiradasilva@usp.br</p>
     <p>Telefone: +55 (11) 95310-9860</p>
     <p>LinkedIn: https://www.linkedin.com/in/matheus-oliveira-da-silva-b60085236/</p>
   </section>
