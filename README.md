@@ -9,8 +9,7 @@
     <h1>Matheus Oliveira da Silva</h1>
   <section id="Sobre">
     <h2>About</h2>
-    <p>Applied and Computational Mathematics student in Mathematics and Statistics Insitute of Universidade de São Paulo (USP). Learning C++, already developed algorithms using python and C. Main interests are machine learning, linear algebra and data structure.</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=matheus-osilva&show_icons=true&theme=blue-green" width="400">
+    <p>Applied and Computational Mathematics student in Mathematics and Statistics Insitute of Universidade de São Paulo (USP). Learning C++, already developed algorithms using python and C. Main interests are machine learning, linear algebra and mathematical logic.</p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-osilva&layout=compact&theme=blue-green&hide=html" width="360">
   </section>
 
@@ -24,7 +23,7 @@
 
 
   <footer>
-    <p>&copy; 2023 Matheus Oliveira da Silva</p>
+    <p>&copy; 2025 Matheus Oliveira da Silva</p>
   </footer>
 
 </body>
